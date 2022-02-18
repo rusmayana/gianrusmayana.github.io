@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url("images/jumbotron.jpg");
+  background-size: cover;
+  height: 770px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#galery img {
+  height: 700px;
+}
